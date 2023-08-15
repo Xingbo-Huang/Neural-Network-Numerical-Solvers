@@ -9,4 +9,6 @@ Below is the process of how to run the linear modes algorithm.
 4. Run the linear modes autoencoder and chose the modes that make sense as there could be the presence of false modes.
 
 5. Change the import filepath of the FFT file and run it to obatin the frequency vs amplitude representation of the modal response.
-   
+
+------------------------------------
+Note: all hyperparameters and NN architecture can be modified as you wish but it is recommended to have equal number of input nodes as the number features (numer of time series data) inside your training dataset.
