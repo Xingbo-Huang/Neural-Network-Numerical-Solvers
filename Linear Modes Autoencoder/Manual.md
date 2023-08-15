@@ -4,7 +4,7 @@ Below is the process of how to run the linear modes algorithm.
 
 2. Open either the linear modes autoencoder file best suited for your dataset
 
-3. Inside the linear modes script, change the import filepath similar to point 1 such that the NN loads the correct training dataset. Again chnage the export modal response filepath (export) to a path of your liking. 
+3. Inside the linear modes script, change the import filepath similar to point 1 such that the NN loads the correct training dataset. Again change the export modal response filepath (export) to a path of your liking. 
 
 4. Run the linear modes autoencoder and chose the modes that make sense and there could be the presence of false modes.
 
